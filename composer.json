@@ -21,6 +21,7 @@
     "require": {
         "php": ">=5.2.0",
         "ext-json": "*",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "vlucas/phpdotenv": "^3.3"
     }
 }
